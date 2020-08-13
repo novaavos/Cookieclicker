@@ -1,9 +1,9 @@
 # Cookieclicker
 
-Projeto de um CookieClicker com elementos multiplayer
+A project of a CookieClicker style game with some multiplayer elements that I made at the beggining of university
 
 ![Capturar](https://user-images.githubusercontent.com/19335381/74286613-e5470200-4d06-11ea-9a0d-8d19184871aa.PNG)
 
-Ele foi proposto como uma piada e acabou sendo um projeto onde consegui aprender muito apesar de sua simplicidade, nele dois times competem por ter o maior numero de moedas, o placar e atualizado em tempo real.
+It was proposed as a joke and ended been a cool introduction to nodejs as simple as it was at the time, two teams compete to have the most amount of total coins farmed and the score is updated in real time for everyone.
 
-Foram utilizados Node.js junto com a biblioteca Phaser
+I made with Node.js and Phaser.js library
